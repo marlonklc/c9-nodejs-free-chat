@@ -1,0 +1,28 @@
+{
+  "name": "free-chat",
+  "version": "0.1.0",
+  "description": "free chat on socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonklc/c9-nodejs-free-chat.git"
+  },
+  "keywords": [
+    "free-chat",
+    "chat",
+    "socket.io"
+  ],
+  "author": "marlonklc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlonklc/c9-nodejs-free-chat/issues"
+  },
+  "homepage": "https://github.com/marlonklc/c9-nodejs-free-chat#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
