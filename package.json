@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/marlonklc/c9-nodejs-free-chat#readme",
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "express": "^4.16.2",
+    "jquery": "^3.2.1",
     "socket.io": "^2.0.4"
   }
 }
